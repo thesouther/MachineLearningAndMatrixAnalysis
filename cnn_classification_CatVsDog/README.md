@@ -5,7 +5,7 @@
 ----
 
 ### 运行
-首先解压data下train和test文件。
+首先解压data下train和test文件，可以从[这里](https://github.com/thesouther/ucas_courses/tree/master/DeepLearning/cnn_classification_CatVsDog/data)下载数据集。
 
 使用如下命令运行训练代码
 ```
